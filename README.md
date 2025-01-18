@@ -1,4 +1,4 @@
-# Neural Network Projects
+# Neural Network Projects🧠
 
 Welcome to my Neural Network Projects repository! This repository showcases my projects on neural networks.
 ## Table of Contents
@@ -14,7 +14,7 @@ This repository features a deep learning project that demonstrates:
 - Applications of frameworks like TensorFlow and Keras.
 - Hands-on examples of data preprocessing, training, evaluation, and deployment.
 
-## Project
+## Projects
 **1. Poem Generator**
 - **Description**: A character-based LSTM model trained to generate poetry in the style of William Shakespeare.
 - **Highlights**:
@@ -31,4 +31,4 @@ Contributions are welcome! If you have ideas for improvements, feel free to:
    ```bash
    git checkout -b feature/your-feature-name
 
-**Thank you for visiting this repository! 🚀**
+**Thank you for visiting this repository! 😊😃**
