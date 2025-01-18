@@ -30,5 +30,6 @@ Contributions are welcome! If you have ideas for improvements, feel free to:
 2. Create a feature branch:
    ```bash
    git checkout -b feature/your-feature-name
-
+3.Commit your changes and push to your fork.
+4.Submit a pull request.
 **Thank you for visiting this repository! 😊😃**
