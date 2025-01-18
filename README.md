@@ -13,8 +13,8 @@ This repository features a deep learning project that demonstrates:
 - Applications of frameworks like TensorFlow and Keras.
 - Hands-on examples of data preprocessing, training, evaluation, and deployment.
 
-## Projects[Pro1code.py]
-**1. Poetic Lines Generator**
+## Projects
+[**1. Poetic Lines Generator**](Pro1.py)
 - **Description**: A character-based LSTM model trained to generate poetry in the style of William Shakespeare.
 - **Highlights**:
   - Custom sampling function for text generation.
