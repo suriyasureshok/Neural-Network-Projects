@@ -4,7 +4,6 @@ Welcome to my Neural Network Projects repository! This repository showcases my p
 ## Table of Contents
 - [Overview](#overview)
 - [Project](#project)
-- [Contributing](#contributing)
 
 ---
 
@@ -22,14 +21,4 @@ This repository features a deep learning project that demonstrates:
   - Adjustable temperature control to modify the creativity of generated text.
 
 ---
-
-## Contributing
-Contributions are welcome! If you have ideas for improvements, feel free to:
-
-1. Fork this repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-3.Commit your changes and push to your fork.
-4.Submit a pull request.
 **Thank you for visiting this repository! 😊😃**
