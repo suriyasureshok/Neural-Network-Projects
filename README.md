@@ -1,7 +1,6 @@
 # Neural Network Projects
 
-Welcome to my Neural Network Projects repository! This repository showcases my projects on neural network focused on generating poems inspired by Shakespeare's works. This project is designed with a focus on clarity, reproducibility, and educational value.
-
+Welcome to my Neural Network Projects repository! This repository showcases my projects on neural networks.
 ## Table of Contents
 - [Overview](#overview)
 - [Project](#project)
