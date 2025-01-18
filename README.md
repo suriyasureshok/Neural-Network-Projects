@@ -14,7 +14,7 @@ This repository features a deep learning project that demonstrates:
 - Hands-on examples of data preprocessing, training, evaluation, and deployment.
 
 ## Projects
-[**1. Poetic Lines Generator**](Pro1.py)
+[**1. Poetic Lines Generator**](https://github.com/suriyasureshok/Neural-Network-Projects/tree/main/Generating%20Poetic%20Lines%20using%20Recurrent%20Neural%20Network)
 - **Description**: A character-based LSTM model trained to generate poetry in the style of William Shakespeare.
 - **Highlights**:
   - Custom sampling function for text generation.
