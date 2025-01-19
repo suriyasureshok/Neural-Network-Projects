@@ -1,6 +1,6 @@
-# Neural Network Projects🧠
+# Machine Learning Projects🧠
 
-Welcome to my Neural Network Projects repository! This repository showcases my projects on neural networks.
+Welcome to my Machine Learning Projects repository! This repository showcases my projects on Neural Networks, Deep Learning, Predictive Models and lots more!
 ## Table of Contents
 - [Overview](#overview)
 - [Project](#project)
